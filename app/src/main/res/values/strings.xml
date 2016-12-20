@@ -1,0 +1,306 @@
+<resources>
+    <string name="app_name">e游锦州</string>
+    <string name="action_settings">Settings</string>
+    <string name="version_name">当前版本：</string>
+    <string name="can_not_find_version_name">无法获取版本信息</string>
+    <string name="impression_detail_publish_way">来自e游锦州Android版</string>
+    <string name="please_login_toast">您还未登陆，请使用第三方账号登陆!</string>
+
+
+    <string name="expo_title">世博攻略</string>
+    <string name="expo_nature_title">自然与科技</string>
+    <string name="expo_nature">锦州世博园园区总占地面积7平方公里，其中陆地面积3.3平方公里，水域面积3.7平方公里，是全球规模最大的园林博览园区。</string>
+    <string name="expo_city_title">城市与生活</string>
+    <string name="expo_city">锦州世博园有世界最大的万花谷---蝶恋花谷及四条花带，种植各种花卉，其中种植了上百种郁金香，世博园将是花的海洋。</string>
+    <string name="expo_travel_title">交通指南</string>
+    <string name="expo_travel">交通是旅游的第一步，了解景区的交通路线对于一个体验良好的旅游必不可少</string>
+    <string name="expo_travel_text1">"\u0009\u0009\u0009①锦州市出发--市府路--中央南街--环岛--渤海大道--阜锦线--渤海大道--S209--崔屯村--终点。"</string>
+    <string name="expo_travel_text2">"\u0009\u0009\u0009②锦州市--中央大街--云飞大桥--锦娘路--龙栖湾大道--终点。"</string>
+    <string name="expo_travel_text3">"\u0009\u0009\u0009③京沈高速锦州东出口--龙栖湾大道--终点。"</string>
+    <string name="expo_travel_text4">"\u0009\u0009\u0009①世园1号线(火车站-世园会)，途经火车站、交通银行、凌安支行、农行大厦、市交通局、世园会共5站。"</string>
+
+    <string name="guojishengtaiguan_txt">"\u0009\u0009\u0009国际古生态馆建筑面积7817平方米，共三层。馆内以古生态为主题，是世界首座将远古生态系统复原为全部内容的展览馆。本馆是世界上最大的恐龙馆，馆内由100多条恐龙化石形成壮观的恐龙阵，其中马门溪龙为亚洲最长。同时珍藏大量古生物标本，将带你走进威力无限的化石世界，近距离观赏亿万年前的化石生命体，了解地球版块的漂移、气候的转变及生命从简单到复制、低等到高等的进化过程，具有很强的展览性和研究性。"</string>
+    <string name="guojishengtaiguan_txt1">"\u0009\u0009\u0009The International Museum of ancient building area of 7817 square meters, a total of three. The ancient ecological theme, is the world's first ancient ecological restoration for all the contents of the exhibition hall. The museum is the world's largest dinosaur museum, the museum by more than 100 dinosaur fossils formed spectacular dinosaur array. The Mamenchisaurus dragon is the longest in Asia. While the collection of a large number of ancient biological specimens that will take you into the limitless power of fossils in the world, close-up view of life fossils millions of years ago, understanding of earth's tectonic plates shift, climate change and the life from simple to copy, low until the higher evolutionary process, has a strong exhibition and research."</string>
+
+
+    <string name="shuiyunzhiwujuchang_txt">"\u0009\u0009\u0009水韵之舞剧场建筑面积9565平方米，建筑高度29.05米，观众厅可容纳999人，是世博园大型演艺中心，也是精品晚会"锦绣神州"的演出场所。建筑造型以一组跳动的音阶形成剧院的主体，剧场外墙的篆书雕刻，让传统文化充满最前沿的张力，渲染着浓郁的文化氛围，人们在这里可以感受到一种传统长卷式洄游的空间体验。"</string>
+    <string name="shuiyunzhiwujuchang_txt1">"\u0009\u0009\u0009Water rhyme Dance Theater construction area of 9565 square meters, the building height of 29.05 meters, the audience hall can accommodate 999 people, is a large performing arts center in Expo Park, is also a boutique show "Splendid China". Main architectural style with a group of beating the scale formation of the theatre, theatre wall seal engraving, let traditional culture full of the tension of the frontier, rendering of the rich cultural atmosphere, people here can feel a kind of traditional scroll type migration experience."</string>
+
+    <string name="baihuaguan_txt">"\u0009\u0009\u0009百花馆主要以科普教育、花艺文化、环保为建设理念。展示的各种花卉能充分利用其本身的生长特点，让人们欣赏到大自然给予人类多姿多彩的花卉世界。"</string>
+    <string name="baihuaguan_txt1">"\u0009\u0009\u0009Flower house mainly in science education, culture and environmental protection for the construction of concept art. All kinds of flowers show can make full use of the growth of its own characteristics, let people enjoy nature gives human colorful flowers in the world."</string>
+
+    <string name="baihuata_txt">"\u0009\u0009\u0009百花塔是2013锦州世界园林博览会的标志性建筑物，位于园区胜景百花岛，塔高128.8米，塔身直径9.6米，采用钢架结构，是整个展园的制高点和中心观光点，塔内设有两部载重1吨的高速电梯，两部容纳13名游客，仅需40秒就可以直达观光层，同时塔内还设有两部疏散楼梯。百花塔由三部分组成，塔基、塔身和塔顶，塔基如同盛开的花朵，塔身犹如向上的花蕊，塔顶如欲放的花朵，整个设计理性与感性的融合，建筑和梦想的结合。"</string>
+    <string name="baihuata_txt1">"\u0009\u0009\u0009Flowers tower is Jinzhou garden 2013 World Expo landmark buildings, is located in the park scenery flowers Island, 128.8 meters high tower, tower 9.6 meters in diameter, with a steel frame structure is the entire park tourist spot commanding height and center, tower with two 1 ton truck, high-speed elevators, two accommodate 13 tourists, only 40 seconds to direct tourist layer and at the same time the tower is also provided with a two staircases. The amalgamation of flowers tower is composed of three parts, tower, the tower and the top of the tower, taki like flowers in full bloom, tower like to flower, tower if you want to put the flowers, the whole design sense and sensibility, the combination of the building and the dream."</string>
+
+    <string name="haiyangkejichuangyiguan_txt">"\u0009\u0009\u0009海洋科技创意馆位于园区核心区中部，建筑面积7702.9平方米，最高点19.85米，中心公共空间和分散的三个独立展览空间，形成了自然的艺术造型、强烈的视觉冲击力和无限的生命力。展示内容以"立体海洋"为创意主题，由"生命"、"资源"、"环境"、"发现"及4D影院等展厅组成。通过场景还原、实物展示、互动体验等形式，结合动感绚烂的声、光、电及影视互动技术，营造立体海洋空间，展现海洋科技的魅力，催生人民探索海洋奥秘的神秘感和好奇心。"</string>
+    <string name="haiyangkejichuangyiguan_txt1">"\u0009\u0009\u0009Marine Science and technology creative museum is located in the core area of the park central, construction area of 7702.9 square meters, the highest point of 19.85 meters, central public space and dispersion of three independent exhibition space, forming a natural artistic style and strong visual impact and the infinite vitality. To display the contents of "three-dimensional ocean" as the theme, from the "life" and "resource", "environment", "discovery" and 4D cinema hall. Through the scene reduction, physical display, interactive experience, etc., combined with dynamic gorgeous sound, light, electricity and interactive television technology, creating the three-dimensional ocean space, show the charm of marine science and technology, gave birth to the people to explore the mysteries of the ocean mystery and curiosity."</string>
+
+    <string name="migongyouyuan_txt">"\u0009\u0009\u0009迷宫游苑占地面积9919平方米，设计上以石材为主要元素，石林高度控制在0.3-3米。通过石材的高低组合，营造景观空间的开合变化。中间石材道路自然地将整个迷宫游苑划分为动、静两个空间。西侧以动为主，设置了丰富的拓展设施与游乐设施，主要面向青少年与儿童。东侧以静为主，最大限度地应用天然材料，通过蜿蜒的卵石甬路，将人们引入六个大小各异的冥想角，带给游人回归自然、净化心境、畅想未来的感受。"</string>
+    <string name="migongyouyuan_txt1">"\u0009\u0009\u0009The labyrinth tour garden covers an area of 9919 square meters, the design of stone as the main element, the stone forest height control in 0.3-3 meters. Through the stone or in combination, to create the change of opening or closing the landscape space. The middle of the road to the natural stone road will be divided into the maze of the entire maze of dynamic and static two space. On the west side of the main, set up a wealth of development facilities and recreational facilities, mainly for young people and children. On the eastern side of static, the maximum application of natural materials, through the gravel winding path leads meditation six different angle, bring visitors return to nature and purify mind, imagine the feel in the future."</string>
+
+    <string name="yanyiguangchang_txt">"\u0009\u0009\u0009实景特技演艺广场位于园区的东北区，占地5100平方米，建筑面积3000平方米，单场接待观众约1800人。剧场建筑具有浓郁的老辽西地域主题风格，是影视特技、特效实景表演的定制式专业剧场，为三大精品演艺表演场地之一，设计安排红色影视特技秀表演，再现老锦州城风土人情，还原当时的历史场景，是园区反映地域文化、建筑、风情及表演的重要游览景点。"</string>
+    <string name="yanyiguangchang_txt1">"\u0009\u0009\u0009Real stunt Performing Arts Plaza is located in the park in the northeast area, covers an area of 5100 square meters, construction area of 3000 square meters, single game reception from the audience about 1800. Theater building has a rich old western regional theme style, film stunts and special effects the real performance of customized professional theater, as one of the three fine performing arts venues, designed and arranged to red movie stunt show, reproducing old Jinzhou City Customs, reducing that history scene is park reflect regional culture, architecture, customs and performing important attractions."</string>
+
+    <string name="haiwanhuatian_txt">"\u0009\u0009\u0009海湾花田占地面积58310平方米，主要种植荷兰郁金香、三色堇、矮牵牛、大花耧斗菜、天竺葵、金鱼草、柳叶马鞭草、鼠尾草、菊花等花卉，通过季节性花卉的种植和巧妙的布置，充分展示花海壮阔的气度与美感，形成震撼大气的景观效果。"</string>
+    <string name="haiwanhuatian_txt1">"\u0009\u0009\u0009Gulf flower field covers an area of 58310 square meters, mainly planted the Dutch tulip, pansy, Petunia, big flower columbines, geranium, Antirrhinum, willow Verbena, sage, chrysanthemum flower, through seasonal flowers planting and clever layout, demonstrating Huahai magnificent tolerance, and sense of beauty, the landscape effect of atmospheric shock formation."</string>
+
+    <string name="mudanshaoyaoyuan_txt">"\u0009\u0009\u0009牡丹芍药园位于园区北部，占地11774平方米，园内种植10株百年牡丹，3000余株各类牡丹，7000余株耐寒芍药，在实现焦点处配以景石、造型油松及桧柏，将牡丹芍药的雍容、古韵的气质淋漓尽致展现出来。"</string>
+    <string name="mudanshaoyaoyuan_txt1">"\u0009\u0009\u0009Peony garden is located in the north of the park, covers an area of 11774 square meters, 10 strains of hundred years peony garden planting, 3000 strains all kinds of peony, more than 7000 strains of peony cold resistant, in the realization of focus with King Stone, the shape of Chinese pine and cypress, peony grace, elegance temperament incisively and vividly show the."</string>
+
+    <string name="baicaoyuan_txt">"\u0009\u0009\u0009百草园占地面积32333平方米，种植树木12个品种、508株。百草园景观以"散落的贝壳"为设计元素，通过高低错落、大小不一的贝壳状地形围合成百草园趣味十足的景观空间。地形上种植多种观赏草及乔木，形成观赏草品种丰富、乔木层简介现代的专类园林景观。"</string>
+    <string name="baicaoyuan_txt1">"\u0009\u0009\u0009Baicao garden covers an area of 32333 square meters, planting trees of 12 species, 508 strains. Baicao garden landscape with "scattered shells" design elements, through the level of scattered, size of conchoidal terrain Wai synthetic Baicao garden full of interesting landscape space. Planting a variety of ornamental grass and trees on the terrain, the formation of ornamental grass varieties, the introduction of the tree layer of modern garden landscape."</string>
+
+    <string name="xinghuayuan_txt">"\u0009\u0009\u0009杏花园位于海星广场主入口北侧山体西麓，占地面积10641平方米，植树584株，杏树全部种植于大乔组团的外围或沿地形深入山谷中。春季杏花开放，形成林中有花，花中有林，山花烂漫的花海景观。"</string>
+    <string name="xinghuayuan_txt1">"\u0009\u0009\u0009The Apricot Garden is located in the starfish Plaza main entrance on the north side of the mountain Xilu, covers an area of 10641 square meters, 584 strains of planting trees planted all peripheral Joe group or along the terrain into the valley. In the spring of Xinghua open, forming a flower in the forest, flowers have forest, flowers are blooming flowers landscape."</string>
+
+
+    <string name="zhangheguojishuhuashiyuan_txt">"\u0009\u0009\u0009张和国际树化石园建成于2013年，占地205万平方米。目前共有来自中国、美国、缅甸、印尼、蒙古国、南非、俄罗斯等不同国家的树化石400多棵，已鉴定的品种有9属30多种，其中竖立起来的美国树化石高达13米，蒙古国最粗的树化石直径2.8米，重达18吨，堪称两个世界之最。张和国际树化石园是目前世界最大的迁地保存展示的树化石园。"</string>
+    <string name="zhangheguojishuhuashiyuan_txt1">"\u0009\u0009\u0009Zhang and the international tree fossil Park, built in 2013, covers an area of 2 million 50 thousand square meters. Currently from China, the United States, Myanmar, Indonesia, Mongolia, South Africa, Russia and other countries of the tree fossils of more than 400 trees, identification of the species have 9 genera and 30 species, which erected the tree fossils up to 13 meters, Mongolia the thick of the fossil tree diameter of 2.8 meters and weighs 18 tons, called two of the world. Zhang and the international tree fossils are the world's largest ex situ conservation display of the tree fossils garden."</string>
+
+
+    <string name="helan_txt">"\u0009\u0009\u0009空灵之地占地面积3227平方米，是一片开满鲜花的湿地，同时也是一个可以让游人参与体验的欢乐游戏场所。种植各种富于野趣的花草，园区被水流截成不规则大小的湿地，每个湿地之间的沟渠中都设有撑杆。游人利用撑杆越过沟渠，象征着只要努力就会跨过障碍，到达美好的彼岸。空灵之地就像人生的缩影，在这里采花、戏水，感受与大自然亲密接触的愉悦，跨越沟渠，享受挑战自我的乐趣。"</string>
+    <string name="helan_txt1">"\u0009\u0009\u0009Vacant land covers an area of 3227 square meters, is a piece of open flowers of wetland, is also a can let visitors experience the joy of the game for a place in. Planting a variety of full of wild flowers, the park was water cut into irregular size of wetland, between each wetland ditches with braces. The visitors stay over the ditch, symbolizing as long as effort will reach across the obstacle, the beautiful future. The pleasure of a microcosm of life as ethereal, here flowers, swimming, feel intimate contact with nature across the ditch, challenge to enjoy the fun of self."</string>
+
+    <string name="putaoya_txt">"\u0009\u0009\u0009园区占地面积2650平方米，以西方经典哲学中的土、火、气、水和以太为主题。火山石、红色沥青、玻璃座椅、雾喷和摇曳的蒲公英光纤灯以及水，分别代表了前四种元素，它们以流动的螺旋状交错分布在园区中，在中心汇聚，产生出第五种元素以太。以太被认为是神秘的，不可见的构成宇宙的物质。园中心的第五元素主题馆营造了一个繁星点点，如万花筒一般变化多姿的空间，身处其中，便能感受到宇宙的宁静与虚空，传达了人类对自然的敬意。一条曲折的石路贯穿各区，行走其中，仿佛又将五种元素融汇沟通，展现了人融入自然、开发自然的和谐关系。"</string>
+    <string name="putaoya_txt1">"\u0009\u0009\u0009The park covers an area of 2650 square meters, with the western classical philosophy in the earth, fire, gas, water and ether as the theme. Volcanic rock, red asphalt, glass seats, mist spray and swaying dandelion fiber optic lamps and water, respectively, represent the four kinds of elements, them to flow in the spiral shaped staggered distribution in the park, in the center together, the five elements of ether. Ethernet is considered to be mysterious, invisible matter universe. Central garden of the five elements of the theme pavilion to create a starry, spaces such as kaleidoscope variety, living in the will be able to feel the silence of the universe and void, convey human respect for nature. A tortuous road runs through the District, walking one, as if the five elements integrate communication, show the harmonious relationship between people into the nature and development of natural."</string>
+
+    <string name="gelunbiya_txt">"\u0009\u0009\u0009水滴花园占地面积3202平方米，其设计灵感来自于一滴水落入水中的水滴，水滴的运动是有韵律的，安静、和谐地传达给人们平静、愉悦和思考。水滴的涟漪形成园中起伏的地形，既有艺术的外部轮廓，又有层次丰富的内部结构。园内蕨类植物植物园、蔬菜园、果园、沙地和儿童活动场分布在不同的高度，形成丰富的花园景观。在这里，游人不仅可以享受到花朵的芬芳，树荫的清凉，还可以观赏蔬菜与果树园地，更可以让孩童尽情的玩耍。游人沿途体验着神奇的安第斯景观，并可以在步道的铺装上随意涂写，记录自己在此处的思考和回忆，共同构建了这个梦想的地方。"</string>
+    <string name="gelunbiya_txt1">"\u0009\u0009\u0009Water garden covers an area of 3202 square meters, the design inspiration comes from a drop of water falling into the water droplets, the movement of water droplets is rhythmic, quiet and harmonious to convey to people calm, pleasure and thinking. The ripples of water droplets form the undulating terrain of the garden, which is not only the exterior outline of the art, but also has a rich inner structure. The garden, vegetable garden, orchard, sandy area and children's activity field are distributed at different heights, forming a rich garden landscape. Here, visitors can not only enjoy the fragrance of flowers, cool shade of cool, you can also watch the vegetables and fruit trees, but also allows children to enjoy the play. Visitors experience along the way a magical Andean landscape, and can be on the trail of the pavement scribble, record their thoughts and memories in here, work together to build a place of the dream."</string>
+
+    <string name="xibanya_txt">"\u0009\u0009\u0009世外桃源占地面积2000平方米，借鉴地中海传统花园的空间形态，营造了一个"半敞开"的空间。花园中心有一个水池和表演舞台，是人们主要的活动场所。长长的廊道，延伸至尽头，然后垂直拐弯；没有人为斧凿的痕迹；岁月愈久味道愈浓的原木，仿佛散发着海的气息；空间虽然敞开，但林荫密布；在廊内，林间小憩、散步，感觉惬意舒适。几颗海棠在园中散布种植，更加模糊了内与外的界限。自然不加修饰的材料使花园的氛围更加真实，让游人即有被保护感，又能感受到与自然的亲密。"</string>
+    <string name="xibanya_txt1">"\u0009\u0009\u0009Paradise covers an area of 2000 square meters, from the spatial form of traditional Mediterranean Garden, creating a "semi open space. Garden Center has a pool and performing stage, is the main place for people to play. Long corridor, extending to the end, then the vertical turning; no traces of artificial chisels; years longer taste, the more concentrated the logs, as if exudes the smell of the sea; space, although it is open, but the tree lined clouds; in the gallery, the forest rest, walking, comfortable feeling comfortable. A few of the flowering plants in the garden planting, more blurred the boundaries between the inside and outside. Natural without modification of the material to make the garden more real atmosphere, so that visitors have been protected, and can feel the intimacy with nature."</string>
+
+    <string name="xinxilan_txt">"\u0009\u0009\u0009园区占地面积3829平方米，演绎了毛利人的家园奥特亚罗瓦的丰富地理和文化景观。花园中心建筑来源于毛利人的古老传说和传统的独木舟，建筑中心的图腾柱在当地文化中有着重要的意义，周围圆锥状地草坪代表火山；狭长的廊道两端微翘，如水中穿梭的扁舟；中央的喷泉高高喷起，溅落的水花沿着一玻璃罩缓缓流下；水面散布着圆锥形的灯柱，象征着灯塔，整个花园以简洁的设计语言演绎了奥特亚罗瓦的丰富地表景观。"</string>
+    <string name="xinxilan_txt1">"\u0009\u0009\u0009The park covers an area of 3829 square meters, the interpretation of the Maori Aotearoa home rich geographical and cultural landscape. Central garden architecture in Maori ancient legends and traditions of the canoe, the buildings in the centre of the totem pole in the local culture has a vital significance, around the cone shaped lawn volcanic; long and narrow corridor at both ends of the micro become warped, such as boats shuttle back and forth in the water; fountain in the centre of the tall spray, splash splash along a glass cover to slowly flow; surface spread of conical lamppost, symbolizing the lighthouse, the garden with concise design language interpretation of the Aotearoa rich landscape."</string>
+
+    <string name="moxige_txt">"\u0009\u0009\u0009园区占地面积4046平方米，分为七个部分，状似七朵花瓣，展示了墨西哥的七个主要生态系统，花园中心的展厅和喷泉唤起了墨西哥人对"锡花风车"的热爱。园中仙人掌、铁树、落羽杉等热带植物，让游人感受到墨西哥高原的气息;厚厚的石制墙壁和粗狂的路面，带着游人追溯古代玛雅文化的奥秘;中心的喷泉和园顶的锡花风车共同演奏着和谐的乐章。植物、水洗、建筑和金属被巧妙地融合在一起，造就了独特的生态园林，同时也成为墨西哥风景和生态系统的缩影。"</string>
+    <string name="moxige_txt1">"\u0009\u0009\u0009Park covers an area of 4046 square meters, is divided into seven parts, like seven petals, showing the Mexico's seven major ecological system,
+garden center exhibition hall and fountain evokes the Mexicans love on the tin flower windmill ". Park in the cactus, sago cycas, cypress
+tropical plants, allowing visitors to feel the atmosphere of the Mexican plateau; thick stone walls and rough mad pavement, with visitors back in
+the mystery of the ancient Maya culture; center of fountains and garden on the top of the tin flower windmill common playing harmonious music
+chapter. Plants, water washing, construction and metal are cleverly fused together, creating a unique ecological landscape, but also become a
+microcosm of the landscape and ecological system in Mexico."</string>
+
+    <string name="anshan_txt">"\u0009\u0009\u0009鞍山园占地面积6773平方米。设计上以岫玉为主体，千山风景为衬托进行整体布置。用"印章"这一玉器元素为原型设计主体建筑，表达玉器中所蕴含的绚丽文化;用钢
+结构大门和矿石基座构成主入口，彰显鞍山作为钢铁之都，在新中国建设过程中的基石作用;用海浪图案布置园路铺装，契合博览会"城市与海，和谐未来"的主题;用
+园区内连锦的微地形处理、精美的岩松布置及丰富植物栽植，体现千山的秀丽风情。"</string>
+    <string name="anshan_txt1">"\u0009\u0009\u0009
+Anshan Park covers an area of 6773 square meters. Design to jade as the main background of the layout of the whole scenic qianshan. "Seal" the
+jade elements for the prototype design of the main building, expression jade contains the brilliant culture; with steel structure gate and ore
+base constitute the main entrance, Anshan highlight as iron and steel, the cornerstone role in the process of building a new China; wave pattern
+is arranged road paving, fit Expo, "the city and the sea, harmonious future" theme; park even Kam micro terrain processing, Yansong arrangement
+of exquisite and rich plant planting, reflecting Qianshan beautiful amorous feelings."</string>
+
+    <string name="jinzhou_txt">"\u0009\u0009\u0009锦州展园也是极为向我们传达一种海与城市融合共存的发展理念，整个展园在设计上体现锦州特色的地景——月季花和银杏树，同时，我们可以看到在展园的入口处
+有一些石墙，那么石墙上面的主要是历史上的一些皇帝所写的诗词中关于锦州的描写，乾隆皇帝的《过锦州六韵》中写到:锦州本要地，势在必争之，徒以严防守，因
+而久戌期。锦州作为咽喉要道在历史上都是非常受重视的，同时锦州的自然资源也非常丰富，我们锦州新十景中就有笔架天桥。"</string>
+    <string name="jinzhou_txt1">"\u0009\u0009\u0009
+Jinzhou exhibition is extremely to convey to us a sea and urban integration of the coexistence of development concept, the entire park in the
+design reflected Jinzhou characteristics of Landscape -- rose and ginkgo trees, at the same time, we can see some of the stone wall at the
+entrance to the park, then above the wall is history of some of the emperors wrote poems about Jinzhou description, Emperor Qianlong "Jinzhou six
+Yun" wrote: Jinzhou the locations, the potential in the battleground, acts to strictly defensive, and thus long Lashio period. Jinzhou as choke
+points in history is very important, and Jinzhou natural resources are also very rich, we Jinzhou new ten have beacon bridge."</string>
+
+    <string name="tieling_txt">"\u0009\u0009\u0009铁岭园占地面积5217平方米。分为东、西两个部分，分别讲述铁岭老城故事和新城风采，并用一条水系串联起来全国景观。园内有湖、瀑、溪的自然观组成，吸引游
+人进入园区。通过"水城星钻"和"虹桥霓裳"景观艺术，再现了镶嵌在湿地之畔的璀璨钻石——铁岭新城。"</string>
+    <string name="tieling_txt1">"\u0009\u0009\u0009Tieling Park covers an area of 5217 square meters. Is divided into two parts of East and West, respectively, about the city of Tieling and Metro
+story style, and a series of national landscape water system. Nature park lake, waterfall, creek, to attract visitors to enter the park. Through
+the "Diamond City" and "Hongqiao nishang" landscape art, reproduction of the mosaic in the wetland by the diamonds - Tieling metro."</string>
+
+    <string name="benxi_txt">"\u0009\u0009\u0009本溪园占地面积7374平方米。展园以辽砚为主题，共分为四部分，依次为主入口迎宾区、中心景观区、山林景观区、次入口迎宾区。置身其中，感悟山城性格。本溪辽砚馆，水洞、五女山，种植的本溪市树五角枫、迎宾的黄石、蜿蜒的枫林，这些由一条蜿蜒曲折的园路串联成有机整体，层层递进，引人入胜。穿行在石墙路上，游人仿佛身临五女山高丽古城，感受世界非物质文化遗产的千年古韵，全面彰显本溪独特悠久的历史文化和人文风情。"</string>
+    <string name="benxi_txt1">"\u0009\u0009\u0009Benxi Park covers an area of 7374 square meters. Zhanyuan Liao inkstone as the theme, is divided into four parts, followed by the main entrance Yingbin District, central landscape area, forest landscape areas, at the entrance welcome area. Among them, the mountain feeling character. Benxi Liao inkstone Museum, tunnel, 5 female hill, planting of Benxi City tree Wu Jiaofeng, welcome the Yellowstone, winding Fenglin, these by a winding road series into an organic whole, progressive, fascinating. Through in a stone wall on the road, visitors like in Korea five female mountain city, experience the world of non material cultural heritage of the Millennium ancient, fully demonstrate Benxi unique long history and human culture and customs."</string>
+
+    <string name="huludao_txt">"\u0009\u0009\u0009葫芦岛占地面积5398平方米。充分体现葫芦岛这样一个海滨城市的海洋文化、海洋工业文化及深厚的历史文化，展园中的海礁石、海浪形铺装及象征意义的岛屿体现
+了海洋之美，仿佛置身海滨，清凉的海洋气息迎面扑来。九门口水上城的引入，彰显葫芦岛市悠久深厚的历史底蕴。漂亮的筝台，伴着高山流水的古筝乐曲，展现了
+葫芦岛人民安居乐业的景象以及丰富多彩的文化生活。"</string>
+    <string name="huludao_txt1">"\u0009\u0009\u0009Huludao covers an area of 5398 square meters. Fully embody the Huludao such a coastal city of marine culture and marine culture industry and
+profound history and culture, Zhanyuan reef, wave shaped paving and symbolic meaning Island reflects the the beauty of the ocean, as if exposure
+to the beach, the cool sea atmosphere lunged. The introduction of the nine door on the history slobber, highlighting the long history of Huludao
+city. Beautiful Zheng and Taiwan, accompanied by melodious Guzheng music, show the scene of Huludao people live and work in peace and contentment
+and rich and colorful cultural life."</string>
+
+    <string name="panjing_txt">"\u0009\u0009\u0009盘锦园占地面积5229平方米。由展馆中砥、稻香蟹肥、红海神韵、坐观垂钓、湿地幻境五大景观区构成。园路主次分明，主干路贯穿南北、东西，呈直线形，将视线
+直接引入主景区。园区以水体和主路勾勒出"米"字轮廓，代表盘锦特产盘锦大米，以支路、木栈道、茅草屋、茅草亭、回廊勾勒出"河蟹"的轮廓，代表着盘锦的水特
+产盘锦河蟹。展园入口大门及与之相连的景墙，由芦苇元素构成，充分体现了盘锦保护生态、环保优先的发展理念，充分的展示了盘锦的建设规模与发展速度。"</string>
+    <string name="panjing_txt1">"\u0009\u0009\u0009
+Panjin Park covers an area of 5229 square meters. The pavilion is composed of Di, fertilizer, red sea crab Daoxiang charm, watching fishing,
+wetland dreamland five landscape areas. The road is clear, the trunk road runs through the north and the south, things are in a straight line,
+the line of sight into the main area. Park water and the main road to outline the contours of the "m" word, on behalf of the specialty of Panjin
+Panjin rice, branch, the boardwalk, thatched cottages, thatched pavilions, corridors to outline the outline of the "crab", which represents the
+crab Panjin Panjin water specialties. Park entrance door and connected with landscape wall, composed of reed elements, fully embodies the Panjin
+ecological protection, environmental protection a priority development concept, fully demonstrating the Panjin construction scale and speed of
+development."</string>
+
+    <string name="yingkou_txt">"\u0009\u0009\u0009营口园占地面积5161平方米。以水为精神，以音乐为气质，着重突出来营口市以温泉为代表的自然资源和以音乐之乡为代表的人文资源。在构思上借鉴了辽宁沿海产
+业基地——明湖的布局形态，模仿阴阳两鱼生生不已的运动过程，寓意营口"一市两港"的蓬勃发展。沿海游园，仿佛顺着蜿蜒的大辽河，感受着与众不同的发展。展
+园中分别设置了两处演奏钢琴和小提琴的音乐空间，两处地下演奏台彼此呼应，通过优美的音乐赞美营口经济的繁荣和营口人美好的生活，充分表达了营口"音乐之乡
+"的美誉。"</string>
+    <string name="yingkou_txt1">"\u0009\u0009\u0009Yingkou Park covers an area of 5161 square meters. With water as the spirit, music as the temperament, focused on the hot springs in Yingkou city
+as the representative of the natural resources and the music of the township as the representative of the human resources. In design from the
+layout of Liaoning coastal industrial base - Ming Lake, imitate the movement of yin and Yang, the two fish shengshengbuyi, meaning Yingkou "a two
+port" the vigorous development. The coastal garden, as along the winding Daliaohe, feel out of the ordinary development. Zhanyuan are
+respectively provided with two playing piano and violin music space, two underground bandstand echo each other, through the beautiful music
+praise and Yingkou Yingkou economic prosperity of the people good life, the full expression of the Yingkou "music town" reputation."</string>
+
+    <string name="dandong_txt">"\u0009\u0009\u0009丹东园占地面积6343平方米。展园结合丹东乡土植物运用传统和现代相结合的造园理念和手法，以丹东市花杜鹃花的概念造型作为丹东园的主题。园区中心为"花之蕊
+"喷泉和花瓣广场，融合"花、叶、水"，寓意市花杜鹃、市树银杏、母亲河鸭绿江和鸭绿江大桥、虎山长城等人文景观元素的有机结合，展现大气秀美新丹东的历史文
+脉、风土人情、自然资源与城市面貌。
+"</string>
+    <string name="dandong_txt1">"\u0009\u0009\u0009Dandong Park covers an area of 6343 square meters. Zhanyuan combining Dandong native plants using traditional and modern combination of landscape
+concept and technique, flowers in the flower of Rhododendron in Dandong conceptual modelling as Dandong garden theme. Center Park is "flower
+pistil" fountain and petals square, fusion "flower, leaf, water", meaning the organic combination of rhododendron flower, city ginkgo tree,
+mother river duck green river and duck green river bridge, Hushan Great Wall cultural landscape elements show atmospheric beautiful new Dandong
+historical context, customs, natural resources and the appearance of the city."</string>
+
+    <string name="dalian_txt">"\u0009\u0009\u0009大连园占地面积7729平方米。在波涛起伏的海浪广场上，一枚海螺屹然而立，形成海洋科技展馆;林立的巨型礁石，形态各异的海洋生物散步在海滩之上;海浪围成的
+树池穿插在展馆周围;巨大的舰船停靠在沙滩的角落里。这些，都体现了城市与海的历史渊源，向人们诠释海是地球上生命的起源，在城市诞生之初，海就已经孕育出
+了自然的万千生命。经过大自然的逐渐衍化产生了人类，人类发展到一定阶段创造了城市，人们就开始运用智慧，探索和改造自然，并不断的开始了解和关爱自然。"</string>
+    <string name="dalian_txt1">"\u0009\u0009\u0009Dalian Park covers an area of 7729 square meters. In the choppy waves square, a gold conch Yiran standing, the formation of marine science and
+Technology Museum; forest of giant rocks, different patterns of the marine biological walking on the beach, waves surrounded the tree pool
+interspersed around the pavilion; enormous ships docked in the corner of the beach. This reflects the history of the city and the sea, the sea is
+to interpret the origin of life on earth, in the city at the beginning of the birth, the sea has spawned thousands of natural life. After nature
+has evolved to produce the human, the human development to a certain stage to create the city, people began to use their wisdom, explore and
+transform nature, and continue to understand and care for nature."</string>
+
+    <string name="shenyang_txt">"\u0009\u0009\u0009沈阳园占地面积11020平方米。建筑面积669平方米，水体面积1736平方米，包含水上步道、玫瑰馆、无边界静水面、历史浮雕墙、景观平台、工业文化景观桥、特色
+园林景观——钢林、树林等。在静静的无界水面旁，用浮雕墙雕刻出沈阳的近代辉煌;穿过钢架桥、陈旧的器械见证了共和国长子的成长;身后的钢林，是沈阳城市性
+格的写照，扎根黑土，不折不弯;在静静的水中央，是一朵钢构支撑的盛开玫瑰。遥看花海无边，近品玫瑰芬芳，充分展示了现在的沈阳——工业依然辉煌，环境恰似
+玫瑰绽放。
+"</string>
+    <string name="shenyang_txt1">"\u0009\u0009\u0009Shenyang Park covers an area of 11020 square meters. 669 square meters of building area, 1736 square meters of water area, including water
+trails, Rose Hall, no boundary magnetostatic surface, history wall reliefs, platform landscape, industrial cultural landscape bridge,
+characteristic landscape -- Steel forests and woods. Beside quietly unbounded surface and wall reliefs carved out of Shenyang Modern brilliant;
+through the steel bridge, the old equipment witnessed the growth of the eldest son of the Republic; behind steel forest, is the portrayal of the
+character in Shenyang City, rooted in the black soil, not break than bend; in still water central is supporting a single steel roses bloom. Far
+away to see flowers, near commodities rose fragrance, fully demonstrated the now Shenyang industry still brilliant, environment is like a rose in
+full bloom."</string>
+
+    <string name="fushun_txt">"\u0009\u0009\u0009抚顺园占地面积3949平方米。整个展园模拟西露天矿的地形面貌来建设的。中国古代认为琥珀为虎魂，意思是虎之魂。东北的"抚顺珀"是从煤矿层采掘而来。采取"抚
+顺珀"天然的肌理，在真正的煤精上覆盖玻璃，层层递进，逐渐到达最下层，形成最终的生态小花园。煤精石座椅与别致的矿车花园在园区的一角延伸向这里。晶莹的
+琥珀馆与琥珀廊记载着那片土地上的故事，讲述着今天抚顺工业与生态的和谐共生，传达着抚顺市正由建设现代化工业城市向花园城市迈进的指导思想和倡导节能环
+保的理念。"</string>
+    <string name="fushun_txt1">"\u0009\u0009\u0009Fushun Park covers an area of 3949 square meters. The entire park simulation of West Open-pit Mine terrain image construction. As the soul of
+ancient amber Chinese, meaning is the soul of the tiger. Northeast Fushun "Perot" is from the coal layer mining and. Taking Fushun amber "natural
+texture, covering the real Meijing glass, progressive, has reached the most lower level, forming the final ecological garden. Beijing stone seats
+with a chic garden in a corner car park to here. Glittering and translucent amber Museum and amber Gallery recorded story of that piece of land,
+about today Fushun Industrial and ecological harmony, convey the Fushun City is by building a modern industrial city to Garden City forward
+guiding ideology and advocated the concept of energy saving and environmental protection."</string>
+
+    <string name="chaoyang_txt">"\u0009\u0009\u0009朝阳展园，取名为龙城凤鸣，整个展园以化石文化为特色，赋予了朝阳第一只鸟飞起和第一朵花盛开的诗意，也将展示出辽宁的古国和中华龙鸟的化石，展园的特色
+建筑就是化石珍宝馆以恐龙骨架造型。
+"</string>
+    <string name="chaoyang_txt1">"\u0009\u0009\u0009Chaoyang Park, named as the Dragon City Fengming, the entire park to fossil culture features, given the Chaoyang first bird fly and the first
+flower in full bloom of poetic and will also demonstrate Liaoning ancient and Sinosauropteryx fossils, exhibition of architectural features is
+fossil treasures from the museum to fear the keel frame model."</string>
+
+
+    <string name="fuxin_txt">"\u0009\u0009\u0009阜新园区占地面积4718平方米。展园结合了阜新的玉龙文化，提取不同文化元素符号，以玛瑙原石为设计原型，使整个园区造型充满灵气。园内设置一台地，开圆形水池，独特的天台式绿植，让展馆与周围的植物、水系融为一体、构成了一幅和谐美丽的画面。池中设置巨型玛瑙宝石原石以求如意祥和之气。水石倒映、蓝天白云相合、各得益彰又似乎与大海相融相伴，达到人文与生态、和谐与自然的完美统一，同时向世人展现了阜新被誉为中国玛瑙之都的内涵所在。"</string>
+    <string name="fuxin_txt1">"\u0009\u0009\u0009Fuxin Park covers an area of 4718 square meters. Zhanyuan combines the Fuxin jade culture, different cultural symbol of element extraction, with agate stone for the prototype design, make the entire park modeling is full of nimbus. Park set up a platform, open circular pool, unique day desktop plants, let exhibition hall and the surrounding plants, water system as a whole, constitute the a picture of a beautiful and harmonious picture. The pool set up giant agate gem stone to Ruyi auspicious gas. Consistent waterstone reflections, blue sky and white clouds, bring out the best in each other and seem to merge with the sea accompanied, achieve cultural and ecological, harmony with nature, the perfect unity, and to the world show the Fuxin has been hailed as the connotation of Onyx China where."</string>
+
+    <string name="yliang_txt">"\u0009\u0009\u0009园区占地面积3093平方米。花园体现了波斯的经典造园理念，采用了传统波斯园林的造园手法，中轴线、长形水池和神话雕塑等元素，共同营造了浓郁的波斯文化氛
+围。严肃封闭的围墙勾勒出园区的外部轮廓，树木紧密有序地排列在围墙内部，两条垂直相交的小路把庭院划分为4个部分，大门、水池和院中凉亭在花园的中轴线上
+依次排开，果实和花朵为庭院散发着魅力与芬芳，给游人带来奇妙的穿越之感，体现了波斯传统文化和园林的深厚内涵，向人们传达了波斯文化典雅庄重的气质。"</string>
+    <string name="yliang_txt1">"\u0009\u0009\u0009Park covers an area of 3093 square meters. Garden embodies the Persian Classical Garden concept, using the traditional Persian garden gardening
+practices, axis, long shaped pool and mythological sculptures and other elements, and jointly create a rich cultural atmosphere of the Persian.
+Outline the external contour of the park closed serious walls, trees close and orderly arranged inside the walls, two perpendicular to the path
+of the courtyard is divided into four parts, doors, sinks and hospital in the pavilion in the garden axis lined, fruits and flowers for the
+courtyard scattered with charm and fragrant, visitors to bring wonderful through feeling, reflects the profound connotation of the traditional
+culture and the garden of the Persian, to people to convey the solemn and elegant Persian culture temperament."</string>
+    <string name="ptr_pull_to_refresh">下拉刷新</string>
+    <string name="ptr_release_to_refresh">松开刷新数据</string>
+    <string name="ptr_loading">正在加载...</string>
+    <string name="ptr_last_updated">上次更新时间: %1$s</string>
+
+    <string name="my_impression_please_login_sina">请先登录微博</string>
+    <string name="my_impression_please_login_qq">请先登录QQ</string>
+    <string name="my_impression_upload_messsage_info">正在发布印象，请稍候...</string>
+    <string name="my_impression_share_info">我用@e游锦州 发布了一条印象</string>
+    <string name="my_impression_upload_success_info">印象发布成功，请刷新界面</string>
+    <string name="my_impression_qq_share_target_url">http://expo.cyansoft.cn</string>
+
+    <string name="xuexiaojianjie">\u0009\u0009辽宁工业大学始建于1951年，坐落于依山傍海、交通发达的辽宁西部中心城市--锦州。</string>
+    <string name="xiaobiaoxiaoxun">\u0009\u0009“砺器悟道”的直接含义：在“器”的磨砺中领会“道”的深远。</string>
+    <string name="xianrenlingdao">\u0009\u0009党委书记：王建中</string>
+    <string name="dianziyuxinxigongchengxueyuan">\u0009\u0009电子信息工程是一门应用计算机等现代化技术进行电子信息控制和信息处理的学科，主要研究信息的获取与处理，电子设备与信息系统的设计、开发、应用和集成。</string>
+    <string name="qichexueyuan">\u0009\u0009学院设有车辆工程、交通运输、物流工程、交通工程、汽车服务工程5个本科专业，</string>
+    <string name="dianqigongcheng">\u0009\u0009学院现有3个本科专业，2个硕士学位授予权专业和一个工程硕士专业，在校本科生1600余人，研究生38人。</string>
+    <string name="yanjiusheng">\u0009\u0009硕士是一个介于学士及博士之间的研究生学位，拥有硕士学位者通常象征具有对其专注、所研究领域的基础的独立的思考能力。</string>
+
+    <string name="tucaoexpo">\u0009\u0009锦州世博园开馆已经3年了，游客们可以畅所欲言，给其他游客最新的资讯！</string>
+    <string name="tucaoliaogong">\u0009\u0009辽宁工业大学是一所以工为主，理、工、经、管、文协调发展的省属全日制多科性大学，在这里你可以了解更多你想要的资讯...</string>
+    <string name="tucaoliaoshen">\u0009\u0009辽沈战役纪念馆是锦州的一大文化特色，是国共内战的军事形势的重大转折点...</string>
+
+    <string name="xuexiaojianjie1">\u0009\u0009\u0009辽宁工业大学始建于1951年，坐落于依山傍海、交通发达的辽宁西部中心城市--锦州。校园占地面积1000余亩，建筑面积36万余平方米，各类在校学生18000余人，是一所以工为主，理、工、经、管、文、法、艺术协调发展的省属全日制多科性大学。2013年5月，学校入选国家“中西部高校基础能力建设工程”重点建设高校。</string>
+    <string name="xuexiaojianjie2">\u0009\u0009\u0009学校现有21个教学院、部、中心，7个一级学科硕士学位授权点，35个二级学科硕士学位授权点，10个专业学位授权领域，53个本科专业。形成了以本科教育为主，兼有研究生教育、留学生教育、继续教育的多层次办学格局。</string>
+    <string name="xuexiaojianjie3">\u0009\u0009\u0009学校拥有省特色学科项目1项，省培育学科项目1项，省哲学社会科学重点建设学科1个；省重点实验室6个，省高校重点实验室3个，中央与地方共建高校特色优势学科实验室5个，省级工程技术研究中心2个，省级实验教学示范中心5个；国家级特色专业建设点3个，国家级专业综合改革试点项目1个，省级示范专业4个，省级特色专业2个，省高校本科综合改革试点专业6个，省高校本科工程人才培养模式改革试点专业5个，省高校本科重点支持专业2个；省高等学校重点学科领域研究生培养基地1个，省汽车制造紧缺人才培养基地1个；省2011协同创新中心1个，省高等学校对接产业集群协同创新基地2个。</string>
+    <string name="xuexiaojianjie4">\u0009\u0009\u0009学校拥有一支结构合理、素质优良的师资队伍。现有教职工1200多人，其中教授、副教授480多人。教师中享受国务院政府特殊津贴11人,辽宁省教学名师9人，辽宁省优秀专家2人，辽宁省学科带头人2人，辽宁省专业带头人4人，辽宁省优秀青年骨干教师36人，辽宁省“百千万人才工程”百人层次和千人层次人选17人，辽宁省中青年社会科学人才百人层次3人，辽宁省中青年哲学社会科学人才工程4人。</string>
+    <string name="xuexiaojianjie5">\u0009\u0009\u0009学校办学条件优越，设施完备。各类功能教室6.6万平方米，用于教学的计算机5500多台；拥有4个实训中心和60多个基础实验室、专业实验室；教学科研仪器设备总值为19600多万元。图书信息楼建筑面积39000平方米，功能完善，环境优雅，馆藏文献资料120多万册；校园建有先进的网络信息平台，为学生了解信息、自主学习和日常生活创造了便利条件。</string>
+    <string name="xuexiaojianjie6">\u0009\u0009\u0009学校始终坚持人才培养质量是生命线的办学理念，重视学生素质教育，强化学生实践能力和创新精神的培养。建有1个近6万平方米的大学生实验实训中心，1个国家级大学生校外实践教育基地，4个省级大学生实践教育基地。近三年，学生在省级以上创新竞赛活动中，获国家级奖121项，省级奖1270项。学校教学管理严格，学风浓郁，人才培养质量受到社会充分肯定。毕业生综合素质高、适应能力强广受社会欢迎，多年来毕业生就业率都在95%以上。</string>
+    <string name="xuexiaojianjie7">\u0009\u0009\u0009学校注重科技团队、科技人才的建设与培养。五年来，引进了中组部特聘专家1人；拥有辽宁省高校优秀科技创新团队2个；8人入选辽宁省教育厅第一层次优秀人才支持计划，20人入选辽宁省教育厅第二层次优秀人才支持计划。1人入选2014年汤森路透发布的全球高引用科学家榜单，并入选世界著名出版公司爱思唯尔（Elsevier）发布的中国高被引学者（Most Cited Chinese Researchers）榜单，成为最具世界影响力的中国学者之一。</string>
+    <string name="xuexiaojianjie8">\u0009\u0009\u0009学校具有较强的科研能力，近五年共完成了包括国家自然科学基金、“863”计划、“973”计划、国家重大支撑计划、国家重大专项及省部级以上各类科研课题120余项，获省部级以上奖励20余项，被国际三大检索收录的学术论文900余篇。学校入选2015年中国大学ESI高被引论文排行榜100强高校。</string>
+    <string name="xuexiaojianjie9">\u0009\u0009\u0009学校国际交流与合作成效显著。先后与美国、德国、英国等国家20多所大学建立了校际合作关系，扩大了学校的国际影响力。2013年学校获批国家来华留学生奖学金资格高校。目前留学生人数达到500人，其中硕士留学生45人。</string>
+    <string name="xuexiaojianjie10">\u0009\u0009\u0009校园典雅幽静、整洁规范、安全有序，是锦州市政府命名的“花园式单位”，辽宁省“思想政治工作先进单位”、“绿化先进单位”，省教育厅命名的“平安校园”、“依法治校示范校”、“安全文明校园”，国家体育总局授予的“全国群众体育先进单位”，中共辽宁省委、辽宁省人民政府命名的“文明单位标兵”。</string>
+    <string name="xuexiaojianjie11">\u0009\u0009\u0009光阴荏苒，沧海桑田，60余年风雨兼程，辽宁工业大学形成了独具特色的优良传统，积淀了弥足珍贵的精神财富。今天的辽工大全体师生员工正以饱满的热情，按照“提高层次，充实内涵，突出特色，加快发展”的发展战略，秉承“砺器悟道”的校训，深化改革，加快发展，全面提升学校核心竞争力，努力把辽宁工业大学建设成为省内一流、国内知名、国际上有一定影响的多科性高水平大学，为国家和地方经济社会发展作出新的更大的贡献！</string>
+
+    <string name="xiaobiaoxiaoxun1">\u0009\u0009\u0009标识的主体由汉字“辽”的抽象图形组成，“辽”字的下部又很巧妙地形成了一本打开的书。抽象与具象的结合，文字与图形的延续，体现了学院注重教学、以学为本、探求真理、学术精湛的思想内涵。</string>
+    <string name="xiaobiaoxiaoxun2">\u0009\u0009\u0009标识主体形象又可看成是粗壮有力的汉字“工”，突出体现了我校工科院校的性质和传统优势，以工科专业为主体，汇聚理、商、人文等多学科的特色。“工”字的粗壮，传达着学校在新时代的发展过程中，保持工科专业的优势同时不断扩大自己的发展领域。</string>
+    <string name="xiaobiaoxiaoxun3">\u0009\u0009\u0009标识主体背景是经过弱化的一大一小两个镂空椭圆形。两个椭圆形的轨迹相互交叉，相互贯通。背景图形贯穿整个标识图案，象征着宇宙和未来。简洁的背景图案衬托着醒目的主体形象，使整个图案具有统一感。主体与背景相结合，既有形象上的方与圆对比，又具备时空中虚与实的沟通。对比中体现深邃的理性，沟通中反映时空的永恒，这一形象昭示着学校面向未来的发展宏图。</string>
+    <string name="xiaobiaoxiaoxun4">\u0009\u0009\u0009整体标识下部书写数字“1951”，表达我校始建于1951年，明确了学校建校的时间，展示了学校悠久的历史。</string>
+    <string name="xiaobiaoxiaoxun5">\u0009\u0009\u0009主体图案的外围是色彩渐变的圆形边徽。整体颜色青春、明快、亮丽符合工科院校的特点，彰显了学校“开放、自由、创新”的校园文化。整体标识厚重、朝气、富有现代感，是学校精神文化、价值理念的凝结。</string>
+    <string name="xiaobiaoxiaoxun6">\u0009\u0009\u0009“砺器悟道”的直接含义：在“器”的磨砺中领会“道”的深远。</string>
+    <string name="xiaobiaoxiaoxun7">\u0009\u0009\u0009“砺”：一意为磨刀石，见《荀子·劝学》“金就砺则利”；一意为磨，见《书·费誓》“砺乃锋刃”。</string>
+    <string name="xiaobiaoxiaoxun8">\u0009\u0009\u0009“器”：器皿、工具。</string>
+    <string name="xiaobiaoxiaoxun9">\u0009\u0009\u0009“悟”：领会、理解、觉醒。</string>
+    <string name="xiaobiaoxiaoxun10">\u0009\u0009\u0009“道”：一意为宇宙万物的本原，见《老子》“有物混成，先天地生，可以为天下母，吾不知其名，字之曰道”；一意为人生观、世界观，见《论语·公冶长》“道不行，乘桴浮于海”。</string>
+    <string name="xiaobiaoxiaoxun11">\u0009\u0009\u0009深入理解“砺器悟道”的含义，需要在“器”与“道”的辩证联系中把握以下三个方面的关系：</string>
+    <string name="xiaobiaoxiaoxun12">\u0009\u0009\u0009一、“制器”与“砺器”的关系</string>
+    <string name="xiaobiaoxiaoxun13">\u0009\u0009\u0009“制器”即制造工具，狭义地讲，工学院就是研究和传授制造工具的知识与技能的高等学校。但是，同样是工具的制造，方法目的不同，精神状态不同，其结果就会大不相同，而“砺器”指的是高水准的工具制造。</string>
+    <string name="xiaobiaoxiaoxun14">\u0009\u0009\u0009可以从两个方面来解说“砺器”：其一，“砺器”体现着坚韧不拔、百折不挠、持之以恒的刻苦精神，不为挫折而泄气，不被困难所吓倒，有“铁杵磨成针”的信念和韧劲；其二，“砺器”体现着认真细致、精益求精的学习和工作的态度，不只求做完，更要求做好做精，强调制造出高质量的精品。</string>
+    <string name="xiaobiaoxiaoxun15">\u0009\u0009\u0009在我们的办学思想和育人方针中，要注重培养师生的刻苦精神和精益求精的学习与工作的态度，克服脆弱和做事不认真的思想弊病，掌握扎实的专业知识与精湛的实践技能，以踏实的作风、创新的观念高质量地完成各项学习工作任务，培养一流人才，争创一流佳绩，高水准地实现学校的办学目标。</string>
+    <string name="xiaobiaoxiaoxun16">\u0009\u0009\u0009二、“事理”与“道理”的关系</string>
+    <string name="xiaobiaoxiaoxun17">\u0009\u0009\u0009“事理”是关于具体事物和专业领域的知识，是学校直接的授课内容；“道理”则是关于“道”的理论，是从自然与社会生活的具体“事理”中所总结概括的共性本质，既体现着对“事理”的提炼，也体现着对“事理”的深化。在学校教育中，使学生明白“道理”，掌握科学的思维方法，提高道德境界，是基本的办学任务。</string>
+    <string name="xiaobiaoxiaoxun18">\u0009\u0009\u0009可以从两个方面来解说“道理”：其一，“道理”是对具体专业知识的共性提炼，体现为反映本质规律的哲理，并具有指导实践的方法论意义；其二，“道理”突出地表现为正确指导社会生活和处理人际关系的道德原则，规范人的行为，提高人的情操为实现有创造、有价值的人生目标而导航。</string>
+    <string name="xiaobiaoxiaoxun19">\u0009\u0009\u0009我们在办学的过程中，要遵循“事理”，更要透彻地掌握和贯彻“道理”；在知识的传授上，要认真地“授人以鱼”，更要强调“授人以渔”，重在使学生把握科学的思想方法，树立高尚的道德情操，真正实现授道解惑的育人目的。</string>
+    <string name="xiaobiaoxiaoxun20">\u0009\u0009\u0009三、“砺器”与“悟道”的关系</string>
+    <string name="xiaobiaoxiaoxun21">\u0009\u0009\u0009“器”与“道”是对客观世界进行本体分析和本质探索的一对范畴。《周易·系辞传》中讲道：“形而上者谓之道，形而下者谓之器”。“砺器”与“悟道”的关系从“器”与“道”的联系中，强调了“砺器”的宗旨与“悟道”的途径。</string>
+    <string name="xiaobiaoxiaoxun22">\u0009\u0009\u0009一方面，要在“砺器”中“悟道”，我们不是培养头脑简单的工匠，而是要在“器”的磨砺中领会“道”的深远，探索规律，把握本质，作社会主义事业的建设者和接班人；另一方面，要将“悟道”的收获贯彻到“砺器”的实践中，既要志存高远又要脚踏实地，要以科学的思维方法提高分析问题解决问题的能力，以高尚的道德情操做一个有益于人民的人。</string>
+    <string name="xiaobiaoxiaoxun23">\u0009\u0009\u0009“砺器悟道”体现了科技精神与人文精神的结合。砺器，即踏踏实实、精益求精地刻苦钻研科学文化知识，提升科学素质，培养高新技术人才；悟道，即探索规律，追求真理，树立正确的世界观、人生观和价值观，提升人文素质，培养出懂天道、世道、人道，明事理、道理的综合型人才。 </string>
+    <string name="xiaobiaoxiaoxun24">\u0009\u0009\u0009“砺器悟道”体现了“务实”与“求真”的统一。“砺器”要求从实际出发，勤恳做事，老实做人，既要克服懒散习气，也要去除不切实际的幻想，认真完成每一项任务；“悟道”则是对客观规律的探索，对真理的追求，不满足于肤浅的认识，善于深刻分析，理性思考，自觉遵循科学的发展观。“砺器悟道”是求真务实的方针在办学过程中的切实贯彻。</string>
+    <string name="xiaobiaoxiaoxun25">\u0009\u0009\u0009在“砺器悟道”的校训中，“器”与“道”并重，辨证统一，相通相融； “砺”与“悟”并行，遥相呼应，相得益彰。既有古代先哲思想的继承，又有现代教育理念的浸染，贯通古今，广博深远，而且深入浅出，通俗易懂，字简音和，工科院校的特点鲜明，势必会激励全校师生同心协力，共铸辉煌！</string>
+
+    <string name="xianrenlingdao1">\u0009\u0009\u0009党委书记:王建中</string>
+    <string name="xianrenlingdao2">\u0009\u0009\u0009王建中，汉族，山西临猗人。1975年8月参加工作，1988年7月加入中国共产党，工学博士，教授，学科带头人，辽宁省优秀专家，北京科技大学博士研究生导师。中国金属学会材料分会副理事长，中国能源学会副会长。</string>
+    <string name="xianrenlingdao3">\u0009\u0009\u0009学校校长兼党委副书记:佟绍成  </string>
+    <string name="xianrenlingdao4">\u0009\u0009\u0009佟绍成，满族，辽宁省凌海人。1982年8月参加工作，1992年12月加入中国共产党。博士，教授，辽宁省高校教学名师、优秀青年教师、先进科技工作者、中青年学科带头人、学科带头人、优秀专家、"百千万人才工程"百人层次、政府特殊津贴专家，大连理工大学博士研究生导师。全国优秀教师，全国师德先进个人。分别担任国际杂志：IEEE Transactions on Systems，Man and Cybernetics：Systems；International Journal of Fuzzy Systems；International Journal of Innovative Computing，Information and Control编委，入选2014全球高引用科学家。   </string>
+    <string name="xianrenlingdao5">\u0009\u0009\u0009学校副校长:李卫民 </string>
+    <string name="xianrenlingdao6">\u0009\u0009\u0009李卫民，汉族，辽宁朝阳人。1986年7月参加工作，博士，教授。国家特色专业负责人、省重点实验室主任，辽宁省高校教学名师。担任辽宁省制造业信息化工程专家组成员、辽宁省机械工程学会理事、锦州机械工程学会理事长、九三学社锦州市委主任委员、市人大常委、九三学社辽宁省委常委、省政协委员等社会兼职。    </string>
+    <string name="xianrenlingdao7">\u0009\u0009\u0009学校副校长:刘振安 </string>
+    <string name="xianrenlingdao8">\u0009\u0009\u0009刘振安，汉族，辽宁省朝阳人。1987年7月参加工作，1986年12月加入中国共产党。法学硕士，研究员。 </string>
+    <string name="xianrenlingdao9">\u0009\u0009\u0009学校副校长:谭文东</string>
+    <string name="xianrenlingdao10">\u0009\u0009\u0009谭文东，汉族，湖南湘乡人。1990年7月参加工作，1986年6月加入中国共产党，经济学硕士学位，研究员。</string>
+
+    <string name="shoufeibiaozhun1">\u0009\u0009\u00091、学费收取标准：按照物价部门批准并办理收费许可的标准向学生收费。</string>
+    <string name="shoufeibiaozhun2">\u0009\u0009\u00092．学费的退费办法：</string>
+    <string name="shoufeibiaozhun3">\u0009\u0009\u0009学生因故退学或提前结束学业，学校根据学生实际学习时间，按月计退剩余的学费。</string>
+    <string name="shoufeibiaozhun4">\u0009\u0009\u00093、学校对家庭经济困难学生的扶困助学的具体措施：</string>
+    <string name="shoufeibiaozhun5">\u0009\u0009\u0009奖学金：我校设有国家奖学金、国家励志奖学金、省政府奖学金、校优秀学生奖学金等多项奖励政策和措施，凡我校在籍学生均有资格获得奖学金。</string>
+
+    <string name="tushuguan1">\u0009\u0009\u0009辽宁工业大学图书馆始建于1951年，现馆舍面积为9600平方米，工作人员49人。其中副高以上职称15人，具有大专以上学历者38人。</string>
+    <string name="tushuguan2">\u0009\u0009\u0009辽宁工业大学图书馆始建于1951年，现馆舍面积为9600平方米，工作人员49人。其中副高以上职称15人，具有大专以上学历者38人。馆内设有:采编部、流通部、阅览部、信息网络部、参考咨询部和办公室。共有阅览座位1371座，每周开馆时间达72小时以上。</string>
+    <string name="tushuguan3">\u0009\u0009\u0009图书馆现有馆藏文献资料140万件(册)。其中，纸质图书文献80余万册、报纸3698册、电子图书25万种、电子期刊28389种、电子报纸400种、其它类型文献22673件。</string>
+    <string name="tushuguan4">\u0009\u0009\u0009随着现代化技术的应用，在文献载体上，十分注重光盘、网络数据库等电子出版物及各种视听、缩微资料的入藏，并在馆藏中占有越来越大的比重。在电子资源建设方面，先后引进了《中国CNKI数据库》、Springer》、《EBSCO》、《重庆维普数据库》、《中国万方数据》、《中国强制性标准全文数据库》等，并自建了辽宁工业大学博硕士论文和教学参考书数据库。另购有爱迪科森网上报告厅和清华同方英语模拟练习系统等等，各类电子资源总量已达6.6TB，并与校园网连接，24小时开通，校内各计算机终端均可通过校园网查阅资料。为帮助师生更好的利用图书馆的资源，在全校范围内开设了科技文献(信息)检索与利用课，并定期或不定期地举行文献资源与利用讲座。作为馆藏和服务的延伸， 2001年3月制作了图书馆的网页，将其挂到学校的主页上，并设有专人负责图书馆网面的维护，通过自建网页提供各种网络信息服务。</string>
+    <string name="tushuguan5">\u0009\u0009\u0009图书馆采用较先进的北邮电信的melinetst系统，实现了图书馆业务自动化，增加网上馆藏书目检索、读者借阅信息查询等功能。</string>
+    <string name="tushuguan6">\u0009\u0009\u0009图书馆以"尊重、理解、关心、服务"为工作理念，积极主动地为辽宁工业大学的教学和科研服务，建立了完整的由图书外借、期刊阅览、文献检索以及馆际互借等环节构成的读者服务体系。</string>
+    <string name="tushuguan7">\u0009\u0009\u000921世纪是向信息迈进的时代，信息资源的开发、利用水平是一个国家综合国力的重要标志。辽宁工学院图书馆在历经五十年的变化与发展后, 在馆舍、藏书、人员、服务设施等各个方面均取得了很大的发展，正向着多功能的综合性、研究性图书馆迈步。</string>
+
+
+    <style name="AnimationFade">
+
+        <!-- PopupWindow左右弹出的效果 -->
+        <item name="android:windowEnterAnimation">@anim/inputtodown</item>
+        <item name="android:windowExitAnimation">@anim/outputtodouwn</item>
+    </style>
+
+    <string name="title_activity_expo_tu">ExpoTuActivity</string>
+
+</resources>

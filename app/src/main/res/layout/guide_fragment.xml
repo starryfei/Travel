@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/guide_mian_bg"
+    android:padding="6dip" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="320"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="262"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/nature_science"
+                android:layout_width="200dip"
+                android:layout_height="0dip"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:padding="5dip"
+                android:background="@drawable/guide_nature_and_science"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="地图"
+                        android:textColor="@android:color/white"
+                        android:textSize="25sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="应用"
+                        android:textColor="@android:color/white"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/guide_nature_and_science_centerbg" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/expo_route"
+                android:layout_width="200dip"
+                android:layout_height="0dip"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:padding="5dip"
+                android:background="@drawable/guide_expo_route"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="辽沈"
+                        android:textColor="@android:color/white"
+                        android:textSize="25sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="战役"
+                        android:textColor="@android:color/white"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/guide_expo_route_centerbg" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/city_life"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="193"
+            android:background="@drawable/guide_city_and_life"
+            android:clickable="true"
+            android:focusable="true"
+            android:padding="5dip"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="世博园"
+                    android:textColor="@android:color/white"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="攻略"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/guide_city_and_life_centerbg" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/direction_recognize"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="2dp"
+        android:layout_weight="152"
+        android:background="@drawable/guide_direction_and_recognize"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="周边"
+                android:textColor="@android:color/white"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="学校"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/guide_direction_and_recognize_centerbg" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/group_information"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="2dp"
+        android:layout_weight="152"
+        android:background="@drawable/guide_group_and_information"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="团购"
+                android:textColor="@android:color/white"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="信息"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/guide_group_and_information_centerbg" />
+    </RelativeLayout>
+</LinearLayout>

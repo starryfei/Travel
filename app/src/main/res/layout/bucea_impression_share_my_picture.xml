@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE9E0"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/impression_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity" />
+
+    <ImageView
+        android:id="@+id/iv_impression_of_mine"
+        android:layout_width="fill_parent"
+        android:layout_height="350dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dip" />
+
+    <EditText
+        android:id="@+id/my_impression_share_content_et"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dip"
+        android:gravity="top"
+        android:hint="说说你的印象心情"
+        android:lines="3" />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:layout_marginTop="10dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+
+        <FrameLayout
+            android:id="@+id/my_impression_qq_fl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip">
+
+            <ImageView
+                android:id="@+id/my_impression_qq_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_impression_qq_icon" />
+
+            <ImageView
+                android:id="@+id/my_impression_qq_cover_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_impression_third_login_logo_cover" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/my_impression_dingwei_info_tv"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@drawable/my_impression_dingwei_y"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:text="同时发布到QQ空间"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+</LinearLayout>

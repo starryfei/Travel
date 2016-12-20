@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@drawable/bucea_actionbar_bg9"
+    >
+    <LinearLayout
+        android:id="@+id/head_back"
+        android:layout_width="50dp"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:background="@drawable/bucea_action_btn_xbg">
+        <ImageView
+            android:id="@+id/backarrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/head_back_btn"
+            android:visibility="visible"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/head_title"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="e游锦州"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"/>
+    <LinearLayout
+        android:id="@+id/head_share"
+        android:layout_width="50dp"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:background="@drawable/bucea_action_btn_xbg">
+
+        <ImageView
+            android:id="@+id/share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/head_guide_share"
+            android:visibility="visible"/>
+    </LinearLayout>
+</LinearLayout>

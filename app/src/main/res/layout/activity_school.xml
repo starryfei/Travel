@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.cyansoft.contest.School.SchoolActivity">
+
+    <include
+        android:id="@+id/school_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity" />
+
+    <ListView
+        android:id="@+id/school_travel_line_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="5dip"
+        android:cacheColorHint="@null"
+        android:divider="#EDE9E0"
+        android:dividerHeight="5dip" />
+</LinearLayout>

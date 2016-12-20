@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bucea_list_item_xbg"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="8dip" >
+
+    <ImageView
+        android:id="@+id/iv_travel_line_shortcut"
+        android:layout_width="110dip"
+        android:layout_height="84dip"
+        android:background="@drawable/bucea_travel_line_featured_spots"
+        android:scaleType="fitXY" />
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:orientation="vertical">
+        
+	    <TextView
+	        android:id="@+id/tv_travel_line_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="17sp" />
+	    
+	    <TextView
+	        android:id="@+id/tv_travel_line_desc"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="3dip"
+	        android:textSize="13sp" />
+	    
+    </LinearLayout>
+
+</LinearLayout>

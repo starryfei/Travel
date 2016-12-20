@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_category">
+        <item>全部美食</item>
+        <item>小吃快餐</item>
+        <item>自助餐</item>
+        <item>北京菜</item>
+        <item>江浙菜</item>
+        <item>新疆菜</item>
+        <item>湘菜</item>
+        <item>川菜</item>
+        <item>火锅</item>
+        <item>西餐</item>
+    </string-array>
+    
+    <string-array name="leisure_category">
+        <item>全部休闲</item>
+        <item>文化艺术</item>
+        <item>足疗按摩</item>
+        <item>KTV</item>
+        <item>电影</item>
+        <item>台球</item>
+        <item>网吧</item>
+    </string-array>
+    <string-array name="hotel_category">
+        <item>全部酒店</item>
+        <item>经济型酒店</item>
+        <item>豪华式酒店</item>
+        <item>宾馆</item>
+        <item>旅馆</item>
+    </string-array>
+    
+    <string-array name="groupon_category">
+        <item>全部团购</item>
+        <item>生活服务</item>
+        <item>休闲娱乐</item>
+        <item>结婚生子</item>
+        <item>美食</item>
+        <item>电影</item>
+        <item>丽人</item>
+        <item>购物</item>
+        <item>酒店</item>
+        <item>旅游</item>
+        <item>抽奖</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:ignore="UseCompoundDrawables" >
+
+    <ImageView
+        android:id="@+id/iv_scenery_spots_short_cut"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="6dip" />
+
+    <TextView
+        android:id="@+id/tv_scenery_spots_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dip"
+        android:gravity="center_horizontal"
+        android:textColor="#ff000000"
+        android:textSize="16sp" />
+
+</LinearLayout>

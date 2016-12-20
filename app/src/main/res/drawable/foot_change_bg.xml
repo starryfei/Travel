@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@drawable/foot_change_bg_unnormal" />
+    <item android:state_enabled="false" android:drawable="@drawable/foot_change_bg_unnormal" />
+	<item android:drawable="@drawable/foot_change_bg_normal" />
+
+</selector>

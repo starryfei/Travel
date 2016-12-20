@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE9E0"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/about_us_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity" />
+
+    <GridView
+        android:id="@+id/gv_about_us"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:clickable="false"
+        android:gravity="center"
+        android:layout_marginTop="10dip"
+        android:scrollbars="vertical"
+        android:verticalSpacing="10.0dip" 
+		android:stretchMode="columnWidth"/>
+    
+</LinearLayout>

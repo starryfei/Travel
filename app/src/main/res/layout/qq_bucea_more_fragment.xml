@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE9E0"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dip"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="5dip"
+        android:background="@drawable/bucea_user_center_background"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iv_user_header"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_marginLeft="20dip" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/user_login_btn"
+                android:layout_width="100dip"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/bucea_user_center_login_selector"
+                android:padding="5dip"
+                android:text="登录"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_user_nick_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_user_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:layout_marginTop="3dip"
+                android:textColor="@android:color/white"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dip"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:background="@drawable/bucea_user_center_top_tab_background"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_my_likes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="喜欢"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/tv_my_likes_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.7dip"
+            android:layout_height="30dip"
+            android:background="#D6C6DA" />
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="印象"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/tv_my_impression_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.7dip"
+            android:layout_height="30dip"
+            android:background="#D6C6DA" />
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="收藏"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/tv_my_collect_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.7dip"
+            android:layout_height="30dip"
+            android:background="#D6C6DA" />
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="浏览"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/tv_my_read_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/bucea_user_center_fillet"
+        android:padding="1.3dip" >
+
+        <ListView
+            android:id="@+id/lv_my_operations"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#D7D3D3"
+            android:dividerHeight="1.3dp"
+            android:fadingEdge="none" >
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/bucea_user_center_fillet"
+        android:padding="1.3dip" >
+
+        <ListView
+            android:id="@+id/lv_about_app"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#D7D3D3"
+            android:dividerHeight="1.3dp"
+            android:fadingEdge="none" >
+        </ListView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_logout"
+        android:layout_width="match_parent"
+        android:layout_height="43dip"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="15dip"
+        android:background="@drawable/bucea_action_btn_xbg"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="退出登录"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+</LinearLayout>

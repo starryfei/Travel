@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="list_bg_normal">#FFFFFF</color>
+    <color name="list_bg_press">#EEEEEE</color>
+    <color name="username">#FF0000</color>
+    <color name="time">#7A7A7A</color>
+    <color name="transparent">#00000000</color>
+    <color name="border_bkg">#FFFFFF</color>
+    <color name="border">#000000</color>
+    <color name="text">#000000</color>
+    <color name="main_bkg">#E3DBCF</color>
+    <color name="button">#FFFFFF</color>
+    <color name="button_disable">#9C8E8E</color>
+    <color name="button_press">#F1F1F1</color>
+    <color name="button_text">#000000</color>
+    <color name="list_bg">#F5F5DC</color>
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+</resources>

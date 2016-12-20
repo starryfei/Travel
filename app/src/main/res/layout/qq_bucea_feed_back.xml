@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE9E0"
+    android:focusable="true"  
+	android:focusableInTouchMode="true"  
+    android:orientation="vertical" >
+    <include
+        android:id="@+id/feed_back_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity" />
+    <TextView 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="10dip"
+	    android:layout_marginLeft="10dip"
+	    android:text="您的建议:"/>
+	<EditText 
+	    android:id="@+id/et_contents"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="top"
+	    android:layout_marginTop="5dip"
+	    android:layout_marginLeft="10dip"
+	    android:layout_marginRight="10dip"
+	    android:textSize="13sp"
+	    android:lines="5"
+		/>
+	<TextView 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="10dip"
+	    android:layout_marginTop="5dip"
+	    android:text="联系方式（Email/QQ）"/>
+	<EditText 
+	    android:id="@+id/et_contacts"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="5dip"
+	    android:layout_marginLeft="10dip"
+	    android:layout_marginRight="10dip"
+	    android:singleLine="true"/>
+	<TextView
+        android:id="@+id/tv_submit"
+        android:layout_width="match_parent"
+        android:layout_height="43dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="30dip"
+        android:background="@drawable/bucea_action_btn_xbg"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="提 交"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"/>
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="10dip"
+	    android:layout_marginTop="10dip"
+	    android:text="我们的邮箱：1124467111@qq.com"/>
+	<TextView 
+	    android:id="@+id/tv_current_version"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="10dip"
+	    android:layout_marginTop="5dip"
+	    android:text="当前版本：1.123"/>
+
+
+</LinearLayout>

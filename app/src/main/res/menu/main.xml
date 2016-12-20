@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/id_map_common"
+    android:showAsAction="never"
+    android:title="普通地图"/>
+    <item
+        android:id="@+id/id_map_site"
+        android:showAsAction="never"
+        android:title="卫星地图"/>
+    <!--<item-->
+        <!--android:id="@+id/id_map_traffic"-->
+        <!--android:showAsAction="never"-->
+        <!--android:title="交通地图OFF"/>-->
+    <item
+        android:id="@+id/id_map_my"
+        android:showAsAction="never"
+        android:title="我的位置"/>
+    <item
+        android:id="@+id/id_add_overlay"
+        android:showAsAction="never"
+        android:title="查看旅游景点">
+    </item>
+
+
+</menu>

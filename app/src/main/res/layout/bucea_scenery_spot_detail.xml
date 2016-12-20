@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE9E0"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/scenery_spots_detail_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity" />
+    
+    <ListView 
+        android:id="@+id/lv_scenery_spots"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="10dip"/>
+
+</LinearLayout>

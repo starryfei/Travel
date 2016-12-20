@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Ditu"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity"
+        />
+    <FrameLayout
+        android:id="@+id/head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:ignore="Orientation" >
+        <com.baidu.mapapi.map.MapView
+            android:id="@+id/id_bmapView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true" />
+
+        <RelativeLayout
+            android:id="@+id/id_maker_ly"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_alignParentBottom="true"
+            android:background="#cc4e5a6b"
+
+            android:clickable="true"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/id_info_img"
+                android:layout_width="fill_parent"
+                android:layout_height="150dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/img_border"
+                android:scaleType="fitXY"
+                android:src="@drawable/bijias" >
+            </ImageView>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/bg_map_bottom" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:orientation="vertical"
+                    android:id="@+id/l1">
+
+                    <TextView
+                        android:id="@+id/id_info_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff5eb" />
+
+                    <TextView
+                        android:id="@+id/id_info_distance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff5eb" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/impression_detail_like_nor"
+                        android:clickable="true"
+                        android:id="@+id/zan"/>
+
+                    <TextView
+                        android:id="@+id/id_info_zan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="#fff5eb" />
+                </LinearLayout>
+
+
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </FrameLayout>
+
+
+
+</LinearLayout>

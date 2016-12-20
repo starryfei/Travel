@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE9E0"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/food_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        layout="@layout/head_activity"/>
+    <include
+        android:id="@+id/dzdp_info"
+        android:layout_width="fill_parent"
+        android:layout_height="35dip"
+        android:visibility="gone"
+        layout="@layout/groupon_foodlist_header_view"/>
+
+    <cn.cyansoft.contest.cn.cyansoft.dazhongdianping.PullToRefreshListView
+        android:id="@+id/pull_to_refresh_lv"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_weight="1"
+        android:dividerHeight="3dp"
+        android:divider="#EDE9E0"
+        android:fadingEdge="none"
+        android:scrollingCache="false"
+        />
+</LinearLayout>
+

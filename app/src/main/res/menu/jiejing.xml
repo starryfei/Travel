@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_liaogong"
+        android:showAsAction="never"
+        android:title="辽宁工业大学"/>
+    <item
+        android:id="@+id/id_expo"
+        android:showAsAction="never"
+        android:title="锦州世博园"/>
+    <item
+    android:id="@+id/id_liaoshen"
+    android:showAsAction="never"
+    android:title="辽沈纪念馆"/>
+    <item
+        android:id="@+id/id_bijiashan"
+        android:showAsAction="never"
+        android:title="笔架山"/>
+    <item
+        android:id="@+id/id_beiputuo"
+        android:showAsAction="never"
+        android:title="北普陀山">
+    </item>
+</menu>

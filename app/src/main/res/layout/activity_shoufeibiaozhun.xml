@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <include
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        layout="@layout/head_activity" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="收费标准"
+                android:gravity="center"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shoufeibiaozhun1"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shoufeibiaozhun2"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shoufeibiaozhun3"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shoufeibiaozhun4"
+                />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shoufeibiaozhun5"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
